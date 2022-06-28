@@ -1,0 +1,26 @@
+on:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: A job to extract links
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Extract Links
+        id: extralinks
+        uses: mipmip/github-action-markdown-link-extract-to-json@v1.2
+        with:
+          section: Templates
+          in-file: README.md
+          out-file: templates.json
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
