@@ -19,6 +19,9 @@ jobs:
           in-file: README.md
           out-file: templates.json
 
+      - name: parse repos
+        run: ./.github/workflows/getmeta.sh
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:

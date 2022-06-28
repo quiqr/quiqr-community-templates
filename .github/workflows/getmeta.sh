@@ -13,3 +13,5 @@ do
 
 done
 
+git status
+
