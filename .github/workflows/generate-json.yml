@@ -13,14 +13,11 @@ jobs:
 
       - name: Extract Links
         id: extralinks
-        uses: mipmip/github-action-markdown-link-extract-to-json@v1.3
+        uses: mipmip/github-action-markdown-link-extract-to-json@v1.4
         with:
           section: Templates
           in-file: README.md
           out-file: templates.json
-
-      - name: get templates meta info
-        run: echo "WIP"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
