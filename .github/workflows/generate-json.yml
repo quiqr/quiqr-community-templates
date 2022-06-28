@@ -20,7 +20,7 @@ jobs:
           out-file: templates.json
 
       - name: get templates meta info
-        run: node ./.github/workflows/get-quiqr-template-mate.js
+        run: echo "WIP"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
