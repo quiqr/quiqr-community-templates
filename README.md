@@ -8,7 +8,8 @@ Quiqr Desktop App.
 
 ## Templates
 
-- [Quiqr Paper Template](https://github.com/mipmip/quiqr-paper-themed-template) - The well know minimal paper theme remixed as Quiqr Template.
+- [Quiqr Paper Template](https://github.com/mipmip/quiqr-paper-themed-template) - The well know paper theme remixed as Quiqr Template.
+- [Quiqr XMin Template](https://github.com/mipmip/quiqr-xmin-template) - This might be the most complete super minimal Hugo Theme as Quiqr Remix.
 
 ## Related
 
