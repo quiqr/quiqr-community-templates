@@ -25,7 +25,7 @@ do
         read etalagename
 
       if  [ "$etalagename" != "" ]; then
-        cat /tmp/tmp.json | jq "del(.Screenshot) | .NormalizedName = \"$etalagename\"" > _$etalagename.json
+        cat /tmp/tmp.json | jq "del(.Screenshot) | .SourceLink = \"$link\" | .NormalizedName = \"$etalagename\"" > _$etalagename.json
 
         cat /tmp/tmp.json | jq -r '.ScreenshotImageType' | read screenshot_ext
         if  [ "$screenshot_ext" != "" ]; then
@@ -44,7 +44,7 @@ done
 rm -f templates_tmp.json
 jq -s 'flatten' _*.json > templates.json
 rm -f _*.json
-cat templates.json
+#cat templates.json
 
 #ls -al
 #find ./templates
