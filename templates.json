@@ -1,0 +1,40 @@
+[
+  {
+    "HugoVersion": "extended_0.76.5",
+    "HugoTheme": "Paper",
+    "QuiqrFormsEndPoints": 0,
+    "QuiqrModel": "base collections menu singles",
+    "QuiqrEtalageName": "Paper Themed",
+    "QuiqrEtalageDescription": "The famous paper theme with a Quiqr CMS layer",
+    "QuiqrEtalageHomepage": "https://github.com/mipmip/quiqr-paper-themed-template",
+    "QuiqrEtalageDemoUrl": "",
+    "QuiqrEtalageLicense": "MIT",
+    "QuiqrEtalageLicenseURL": "https://github.com/mipmip/quiqr-paper-themed-template/blob/main/LICENSE",
+    "QuiqrEtalageAuthor": " Steve Francia, Nanxiaobei and Pim Snel",
+    "QuiqrEtalageAuthorHomepage": "",
+    "QuiqrEtalageScreenshots": [
+      "quiqr/etalage/screenshots/quiqr-generated-screenshot.jpg"
+    ],
+    "ScreenshotImageType": "jpg",
+    "NormalizedName": "Paper-Themed"
+  },
+  {
+    "HugoVersion": "0.101.0",
+    "HugoTheme": "XMin",
+    "QuiqrFormsEndPoints": 0,
+    "QuiqrModel": "base collections menu singles",
+    "QuiqrEtalageName": "Quiqr Xmin",
+    "QuiqrEtalageDescription": "Minimal but clean and complete hugo theme remixed as Quiqr Template",
+    "QuiqrEtalageHomepage": "https://github.com/mipmip/quiqr-xmin-template",
+    "QuiqrEtalageDemoUrl": "",
+    "QuiqrEtalageLicense": "MIT",
+    "QuiqrEtalageLicenseURL": "https://github.com/mipmip/quiqr-xmin-template/blob/main/LICENSE",
+    "QuiqrEtalageAuthor": "Yihui Xie, Pim Snel",
+    "QuiqrEtalageAuthorHomepage": "https://yihui.org/",
+    "QuiqrEtalageScreenshots": [
+      "quiqr/etalage/screenshots/quiqr-generated-screenshot.jpg"
+    ],
+    "ScreenshotImageType": "jpg",
+    "NormalizedName": "Quiqr-Xmin"
+  }
+]
