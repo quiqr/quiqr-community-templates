@@ -14,8 +14,8 @@ do
     etalagename=""
     screenshot_ext=""
 
-    echo ./embgit repo_show_quiqrsite $link
-    out=$(./embgit repo_show_quiqrsite $link) && echo "$out" > /tmp/tmp.json
+    echo /tmp/embgit repo_show_quiqrsite $link
+    out=$(/tmp/embgit repo_show_quiqrsite $link) && echo "$out" > /tmp/tmp.json
 
     if [ -f /tmp/tmp.json ]; then
 

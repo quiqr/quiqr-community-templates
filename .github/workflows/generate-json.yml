@@ -33,10 +33,16 @@ jobs:
           out-file: templates_tmp.json
 
       - name: download embgit
-        run: wget -c https://github.com/quiqr/embgit/releases/download/0.5.2/embgit_Linux_x86_64.tar.gz -O - | tar -xz
+        run: cd /tmp && wget -c https://github.com/quiqr/embgit/releases/download/0.5.2/embgit_Linux_x86_64.tar.gz -O - | tar -xz
 
       - name: parse and flatten repo meta
         run: ./.github/workflows/getmeta.sh
+
+      - name: download md2html
+        run: cd /tmp && wget -c https://github.com/nocd5/md2html/releases/download/v2.0.0/md2html_linux_amd64.zip && unzip md2html_linux_amd64.zip
+
+      - name: convert README.md with md2html
+        run: /tmp/md2html README.md -o index.html
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
