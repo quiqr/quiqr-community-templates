@@ -16,6 +16,7 @@
       "quiqr/etalage/screenshots/quiqr-generated-screenshot.jpg"
     ],
     "ScreenshotImageType": "jpg",
+    "SourceLink": "  https://github.com/mipmip/quiqr-paper-themed-template",
     "NormalizedName": "Paper-Themed"
   },
   {
@@ -35,6 +36,7 @@
       "quiqr/etalage/screenshots/quiqr-generated-screenshot.jpg"
     ],
     "ScreenshotImageType": "jpg",
+    "SourceLink": "  https://github.com/mipmip/quiqr-xmin-template",
     "NormalizedName": "Quiqr-Xmin"
   }
 ]
