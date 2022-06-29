@@ -8,7 +8,7 @@ do
   if  [ "$i" = "[" ] || [ "$i" = "]" ]; then
     echo ""
   else
-    link=$(echo "$i" | tr -d '"' | tr -d ',')
+    link=$(echo "$i" | tr -d '"' | tr -d ',' | xargs)
 
     rm -f /tmp/tmp.json
     etalagename=""
@@ -32,7 +32,7 @@ do
           mkdir -p templates/$etalagename
 
           echo screenshot.$screenshot_ext > templates/$etalagename/screenshot.txt
-          cat /tmp/tmp.json | jq -r '.Screenshot' | sed 's/^data:image\/[a-z]*;base64,//' |base64 -d -i > templates/$etalagename/screenshot.$screenshot_ext
+          cat /tmp/tmp.json | jq -r '.Screenshot' | sed 's/^data:image\/[a-z]*;base64,//' | base64 -d -i > templates/$etalagename/screenshot.$screenshot_ext
         fi
       fi
 
