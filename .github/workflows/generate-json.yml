@@ -1,8 +1,21 @@
 on:
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
+    paths:
+      - 'README.md'
 
 jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: awesome-lint
+        run: ./.github/workflows/repo_linter.sh
+
   generate:
     runs-on: ubuntu-latest
     name: A job to extract links
@@ -25,8 +38,8 @@ jobs:
       - name: parse and flatten repo meta
         run: ./.github/workflows/getmeta.sh
 
-          #      - name: Deploy
-          #        uses: peaceiris/actions-gh-pages@v3
-          #        with:
-          #          github_token: ${{ secrets.GITHUB_TOKEN }}
-          #          publish_dir: .
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
