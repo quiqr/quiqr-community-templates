@@ -1,16 +1,52 @@
-# Quiqr Community Templates
+# EMBGIT
 
-A curated and community driven list of Hugo site templates with a Quiqr Content Model.
+Embgit is an minimal git client made in go. It's main goals are:
 
-All listed links point to public repository with a Quiqr Template. A github
-action generated a json-file with makes all templates available inside the
-Quiqr Desktop App.
+- fat binary, dependancy free
+- support for all main platforms
+- clone, add, commit, push
+- use ssh-keys for identification
 
-## Templates
+Embgit is a [Quiqr](https://quiqr.org) project.
 
-- [Quiqr Paper Template](https://github.com/mipmip/quiqr-paper-themed-template) - The well know paper theme remixed as Quiqr Template.
-- [Quiqr XMin Template](https://github.com/mipmip/quiqr-xmin-template) - This might be the most complete super minimal Hugo Theme as Quiqr Remix.
+<a href="https://quiqr.org"><img src="https://book.quiqr.org/logo-nav.svg" width=150 /></a>
 
-## Related
+# Usage
+NAME:
+   embgit - A new cli application
 
-- [Hugo](https://gohugo.io/) - Static Website Generator part of Quiqr's Ecosystem
+USAGE:
+   embgit [global options] command [command options] [arguments...]
+
+COMMANDS:
+   alladd        alladd
+   clone         complete a task on the list
+   commit        commit
+   fingerprint   get fingerprint from ssl key pair
+   keygen        create passwordless ssl key pair (RSA)
+   keygen_ecdsa  create passwordless ssl key pair (ECDSA needed for GitHub)
+   push          push to remote
+   version       display version
+   help, h       Shows a list of commands or help for one command
+
+GLOBAL OPTIONS:
+   --help, -h  show help (default: false)
+
+## Build
+
+make build
+
+## Cross platform builds
+
+go get github.com/mitchellh/gox
+
+make buildx
+
+## Release info
+
+Edit ```const version``` in ```main.go```
+
+```
+GITHUB_TOKEN=xxxxx make release
+```
+
