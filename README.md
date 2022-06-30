@@ -3,8 +3,9 @@
 A curated and community driven list of Hugo site templates with a Quiqr Content Model.
 
 All listed links point to public repository with a Quiqr Template. A github
-action generates [a json-file](https://quiqr.github.io/quiqr-community-templates/templates.json) with makes all templates available inside the
-Quiqr Desktop App.
+action [generates a
+json-file](https://quiqr.github.io/quiqr-community-templates/templates.json)
+with makes all templates available inside the Quiqr Desktop App.
 
 ## Templates
 
