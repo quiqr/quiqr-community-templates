@@ -1,6 +1,7 @@
 # Quiqr Community Templates
 
-A curated and community driven list of Hugo site templates with a Quiqr Content Model.
+A curated and community driven list of Hugo site templates with a Quiqr Content
+Model.
 
 All listed links point to public repository with a Quiqr Template. A github
 action [generates a

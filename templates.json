@@ -13,9 +13,10 @@
     "QuiqrEtalageAuthor": " Steve Francia, Nanxiaobei and Pim Snel",
     "QuiqrEtalageAuthorHomepage": "",
     "QuiqrEtalageScreenshots": [
+      "quiqr/etalage/screenshots/paperscreen.png",
       "quiqr/etalage/screenshots/quiqr-generated-screenshot.jpg"
     ],
-    "ScreenshotImageType": "jpg",
+    "ScreenshotImageType": "png",
     "SourceLink": "https://github.com/mipmip/quiqr-paper-themed-template",
     "NormalizedName": "Paper"
   },
