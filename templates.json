@@ -21,10 +21,30 @@
   },
   {
     "HugoVersion": "0.101.0",
+    "HugoTheme": "UILite",
+    "QuiqrFormsEndPoints": 0,
+    "QuiqrModel": "base collections menu singles",
+    "QuiqrEtalageName": "UILite",
+    "QuiqrEtalageDescription": "Hugo UILite portfolio theme is designed especially for designers and developers who need a good-looking portfolio website without much efforts.",
+    "QuiqrEtalageHomepage": "https://github.com/mipmip/quiqr-uilite-template",
+    "QuiqrEtalageDemoUrl": "",
+    "QuiqrEtalageLicense": "MIT",
+    "QuiqrEtalageLicenseURL": "https://github.com/mipmip/quiqr-uilite-template/blob/main/LICENSE",
+    "QuiqrEtalageAuthor": "Multiple",
+    "QuiqrEtalageAuthorHomepage": "",
+    "QuiqrEtalageScreenshots": [
+      "quiqr/etalage/screenshots/screenshot.png"
+    ],
+    "ScreenshotImageType": "png",
+    "SourceLink": "https://github.com/mipmip/quiqr-uilite-template",
+    "NormalizedName": "UILite"
+  },
+  {
+    "HugoVersion": "0.101.0",
     "HugoTheme": "XMin",
     "QuiqrFormsEndPoints": 0,
     "QuiqrModel": "base collections menu singles",
-    "QuiqrEtalageName": "Quiqr Xmin",
+    "QuiqrEtalageName": "Xmin",
     "QuiqrEtalageDescription": "Minimal but clean and complete hugo theme remixed as Quiqr Template",
     "QuiqrEtalageHomepage": "https://github.com/mipmip/quiqr-xmin-template",
     "QuiqrEtalageDemoUrl": "",
@@ -37,6 +57,6 @@
     ],
     "ScreenshotImageType": "jpg",
     "SourceLink": "https://github.com/mipmip/quiqr-xmin-template",
-    "NormalizedName": "Quiqr-Xmin"
+    "NormalizedName": "Xmin"
   }
 ]
