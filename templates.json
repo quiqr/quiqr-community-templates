@@ -4,7 +4,7 @@
     "HugoTheme": "Paper",
     "QuiqrFormsEndPoints": 0,
     "QuiqrModel": "base collections menu singles",
-    "QuiqrEtalageName": "Paper Themed",
+    "QuiqrEtalageName": "Paper",
     "QuiqrEtalageDescription": "The famous paper theme with a Quiqr CMS layer",
     "QuiqrEtalageHomepage": "https://github.com/mipmip/quiqr-paper-themed-template",
     "QuiqrEtalageDemoUrl": "",
@@ -17,7 +17,7 @@
     ],
     "ScreenshotImageType": "jpg",
     "SourceLink": "https://github.com/mipmip/quiqr-paper-themed-template",
-    "NormalizedName": "Paper-Themed"
+    "NormalizedName": "Paper"
   },
   {
     "HugoVersion": "0.101.0",
