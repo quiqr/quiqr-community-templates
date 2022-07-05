@@ -28,9 +28,6 @@ All listed Quiqr Templates are available inside the Quiqr Desktop App.
 - [UILite](https://github.com/mipmip/quiqr-uilite-template) - A nice looking quick and dirty portfolio website for designers and developers.
 - [Summer](https://github.com/mipmip/summer-qremix) - Simple fresh looking recipe site, ported from Jekyll to Hugo
 
-
-## Contribute
-
 ## Related
 
 - [Hugo](https://gohugo.io/) - Static Website Generator part of Quiqr's Ecosystem
