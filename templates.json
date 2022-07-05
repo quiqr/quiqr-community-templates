@@ -20,6 +20,26 @@
     "NormalizedName": "Paper"
   },
   {
+    "HugoVersion": "extended_0.101.0",
+    "HugoTheme": "summer-qremix",
+    "QuiqrFormsEndPoints": 0,
+    "QuiqrModel": "base collections menu singles",
+    "QuiqrEtalageName": "Summer QRemix",
+    "QuiqrEtalageDescription": "Simple fresh looking recipe site, ported from Jekyll to Hugo",
+    "QuiqrEtalageHomepage": "https://github.com/mipmip/summer-qremix",
+    "QuiqrEtalageDemoUrl": "",
+    "QuiqrEtalageLicense": "MIT",
+    "QuiqrEtalageLicenseURL": "https://github.com/mipmip/summer-qremix/blob/main/LICENSE",
+    "QuiqrEtalageAuthor": "Connor Bär (Ported by Pim Snel)",
+    "QuiqrEtalageAuthorHomepage": "https://github.com/connor-baer",
+    "QuiqrEtalageScreenshots": [
+      "quiqr/etalage/screenshots/quiqr-generated-screenshot.jpg"
+    ],
+    "ScreenshotImageType": "jpg",
+    "SourceLink": "https://github.com/mipmip/summer-qremix",
+    "NormalizedName": "Summer-QRemix"
+  },
+  {
     "HugoVersion": "0.101.0",
     "HugoTheme": "UILite",
     "QuiqrFormsEndPoints": 0,
