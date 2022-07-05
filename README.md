@@ -3,10 +3,13 @@
 A curated and community driven list of Hugo site templates with a Quiqr Content
 Model.
 
-All listed links point to public repository with a Quiqr Template. A github
-action [generates a
-json-file](https://quiqr.github.io/quiqr-community-templates/templates.json)
-with makes all templates available inside the Quiqr Desktop App.
+<p align="center">
+<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+<a href="code-of-conduct.md">Code of conduct</a>&nbsp;&nbsp;&nbsp;
+<a href="open-in-quiqr-badge.md">Open in Quiqr Badge</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+All listed Quiqr Templates are available inside the Quiqr Desktop App.
 
 ## Templates
 
@@ -14,6 +17,9 @@ with makes all templates available inside the Quiqr Desktop App.
 - [XMin](https://github.com/mipmip/quiqr-xmin-template) - This might be the most complete super minimal Hugo Theme as Quiqr Remix.
 - [UILite](https://github.com/mipmip/quiqr-uilite-template) - A nice looking quick and dirty portfolio website for designers and developers.
 - [Summer](https://github.com/mipmip/summer-qremix) - Simple fresh looking recipe site, ported from Jekyll to Hugo
+
+
+## Contribute
 
 ## Related
 
