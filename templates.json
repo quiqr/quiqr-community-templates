@@ -24,7 +24,7 @@
     "HugoTheme": "summer-qremix",
     "QuiqrFormsEndPoints": 0,
     "QuiqrModel": "base collections menu singles",
-    "QuiqrEtalageName": "Summer QRemix",
+    "QuiqrEtalageName": "Summer",
     "QuiqrEtalageDescription": "Simple fresh looking recipe site, ported from Jekyll to Hugo",
     "QuiqrEtalageHomepage": "https://github.com/mipmip/summer-qremix",
     "QuiqrEtalageDemoUrl": "",
@@ -37,7 +37,7 @@
     ],
     "ScreenshotImageType": "jpg",
     "SourceLink": "https://github.com/mipmip/summer-qremix",
-    "NormalizedName": "Summer-QRemix"
+    "NormalizedName": "Summer"
   },
   {
     "HugoVersion": "0.101.0",

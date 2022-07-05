@@ -17,6 +17,7 @@
 - Your entry should be added at the bottom of the `Templates` section.
 - The title of your entry should be title-cased.
 - The suggested Quiqr Template complies with the below requirements.
+- Entries have a description, unless the title is descriptive enough by itself. It rarely is though.
 
 ## Requirements for your Quiqr Template
 
@@ -24,10 +25,10 @@
 - It's the result of hard work and the best I could possibly produce.
 	**If you have not put in considerable effort into your Quiqr Template, your pull request will be immediately closed.**
 - Non-generated Markdown file in a GitHub repo.
-- The repo should have `quiqr-template` & `quiqr` as [GitHub topics](https://help.github.com/articles/about-topics). I encourage you to add more relevant topics.
+- The repo should have `quiqr-template`, `quiqr` and `Hugo` as [GitHub topics](https://help.github.com/articles/about-topics). I encourage you to add more relevant topics.
+- The repo should have link to a working live demo. You can use GitHub Pages of GitLab Pages for hosting this demo.
 - Not a duplicate. Please search for existing submissions.
 - Does not contain items that are unmaintained, has archived repo, deprecated, or missing docs. If you really need to include such items, they should be in a separate Markdown file.
-- Entries have a description, unless the title is descriptive enough by itself. It rarely is though.
 - Includes the [Quiqr Community badge](https://github.com/quiqr/quiqr-community-templates/blob/main/badges.md#quiqr-community-badge).
 	- Should be placed on top of the readme.
 	- Should link to https://github.com/quiqr/quiqr-community-templates
