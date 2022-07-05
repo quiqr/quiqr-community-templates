@@ -29,8 +29,11 @@
 - Does not contain items that are unmaintained, has archived repo, deprecated, or missing docs. If you really need to include such items, they should be in a separate Markdown file.
 - Entries have a description, unless the title is descriptive enough by itself. It rarely is though.
 - Includes the [Quiqr Community badge](https://github.com/quiqr/quiqr-community-templates/blob/main/badges.md#quiqr-community-badge).
+	- Should be placed on top of the readme.
+	- Should link to https://github.com/quiqr/quiqr-community-templates
 - Includes the [Open in Quiqr badge](https://github.com/quiqr/quiqr-community-templates/blob/main/badges.md#open-in-quiqr-badge).
 	- Should be placed on top of the readme.
+	- Should link to the template repository with the `quiqr://` protocol.
 - Has an appropriate open source license.
 	- A code license like MIT, BSD, Apache, GPL, etc, is acceptable.
 	- Place a file named `license`,`LICENSE` of `LICENSE.md in the repo root with the license text.
