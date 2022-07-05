@@ -1,5 +1,8 @@
 <p align="center">
 <img src="https://quiqr.org/quir-community-templates-badge.svg" width="300"/>
+</p>
+
+<p align="center">
 A curated and community driven list of Hugo site templates with a Quiqr Content
 Model.
 </p>
