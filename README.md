@@ -1,16 +1,16 @@
 <p align="center">
 <img src="https://quiqr.org/quir-community-templates-badge.svg" width="300"/>
-</p>
-
-# Quiqr Community Templates
 A curated and community driven list of Hugo site templates with a Quiqr Content
 Model.
+</p>
 
 <p align="center">
 <a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 <a href="code-of-conduct.md">Code of conduct</a>&nbsp;&nbsp;&nbsp;
 <a href="open-in-quiqr-badge.md">Open in Quiqr Badge</a>&nbsp;&nbsp;&nbsp;
 </p>
+
+# Quiqr Community Templates
 
 All listed Quiqr Templates are available inside the Quiqr Desktop App.
 
