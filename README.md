@@ -13,6 +13,7 @@ with makes all templates available inside the Quiqr Desktop App.
 - [Paper](https://github.com/mipmip/quiqr-paper-themed-template) - The well know paper theme remixed as Quiqr Template.
 - [XMin](https://github.com/mipmip/quiqr-xmin-template) - This might be the most complete super minimal Hugo Theme as Quiqr Remix.
 - [UILite](https://github.com/mipmip/quiqr-uilite-template) - A nice looking quick and dirty portfolio website for designers and developers.
+- [Summer](https://github.com/mipmip/summer-qremix) - Simple fresh looking recipe site, ported from Jekyll to Hugo
 
 ## Related
 
