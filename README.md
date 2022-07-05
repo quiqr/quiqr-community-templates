@@ -1,3 +1,5 @@
+<h1 align="center">Quiqr Community Templates</h1>
+
 <p align="center">
 <img src="https://quiqr.org/quir-community-templates-badge.svg" width="300"/>
 </p>
@@ -12,8 +14,6 @@ Model.
 <a href="code-of-conduct.md">Code of conduct</a>&nbsp;&nbsp;&nbsp;
 <a href="open-in-quiqr-badge.md">Open in Quiqr Badge</a>&nbsp;&nbsp;&nbsp;
 </p>
-
-# Quiqr Community Templates
 
 All listed Quiqr Templates are available inside the Quiqr Desktop App.
 
