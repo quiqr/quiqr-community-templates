@@ -28,8 +28,8 @@
 - Not a duplicate. Please search for existing submissions.
 - Does not contain items that are unmaintained, has archived repo, deprecated, or missing docs. If you really need to include such items, they should be in a separate Markdown file.
 - Entries have a description, unless the title is descriptive enough by itself. It rarely is though.
-- Includes the [Quiqr Community badge](https://github.com/quiqr/quiqr-community-templates/blob/main/badges.md).
-- Includes the [Open in Quiqr badge](https://github.com/quiqr/quiqr-community-templates/blob/main/badges.md).
+- Includes the [Quiqr Community badge](https://github.com/quiqr/quiqr-community-templates/blob/main/badges.md#quiqr-community-badge).
+- Includes the [Open in Quiqr badge](https://github.com/quiqr/quiqr-community-templates/blob/main/badges.md#open-in-quiqr-badge).
 	- Should be placed on top of the readme.
 - Has an appropriate open source license.
 	- A code license like MIT, BSD, Apache, GPL, etc, is acceptable.
