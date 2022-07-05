@@ -1,4 +1,18 @@
-# Open in Quiqr Badge
+# Badges
+
+Use these badges in your README.md when adding your template to the Quiqr Community Templates.
+
+## Quiqr Community Badge
+
+<img src="https://quiqr.org/quir-community-templates-badge.svg" />
+
+This badge links back to the Quiqr Community Templates website.
+
+```
+<img src="https://quiqr.org/quir-community-templates-badge.svg" />
+```
+
+## Open in Quiqr Badge
 
 <img src="https://quiqr.org/button.svg" />
 
