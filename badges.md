@@ -9,7 +9,7 @@ Use these badges in your README.md when adding your template to the Quiqr Commun
 This badge links back to the Quiqr Community Templates website.
 
 ```
-<img src="https://quiqr.org/quir-community-templates-badge.svg" />
+<a href="https://github.com/quiqr/quiqr-community-templates"><img src="https://quiqr.org/quir-community-templates-badge.svg" /></a>
 ```
 
 ## Open in Quiqr Badge
