@@ -6,7 +6,9 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 If you have a template to contribute to the community template list, this is how you do it.
 
-You'll need a [GitHub account](https://github.com/join)!
+First read https://github.com/quiqr/quiqr-community-templates/blob/main/pull_request_template.md .
+
+When you're ready, you'll need a [GitHub account](https://github.com/join)!
 
 1. Access the Quiqr Community Templates GitHub page. For example: https://github.com/quiqr/quiqr-community-templates
 2. Click on the `readme.md` file. ![Step 2 Click on Readme.md](https://user-images.githubusercontent.com/658612/177428621-eabc25b8-7ee2-40b0-a1d3-33c5fdde2964.png)
