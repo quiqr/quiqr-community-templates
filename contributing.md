@@ -2,9 +2,9 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
-## Adding something to the list of community templates
+## Adding a template to the list of Quiqr Community Templates
 
-If you have something awesome to contribute to the community template list, this is how you do it.
+If you have a template to contribute to the community template list, this is how you do it.
 
 You'll need a [GitHub account](https://github.com/join)!
 
