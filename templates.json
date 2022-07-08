@@ -73,8 +73,7 @@
     "QuiqrEtalageAuthor": "Pim Snel",
     "QuiqrEtalageAuthorHomepage": "https://pimsnel.com",
     "QuiqrEtalageScreenshots": [
-      "quiqr/etalage/screenshots/quiqr-generated-screenshot.jpg",
-      "quiqr/etalage/screenshots/quiqr-generated.jpg"
+      "quiqr/etalage/screenshots/quiqr-generated-screenshot.jpg"
     ],
     "ScreenshotImageType": "jpg",
     "SourceLink": "https://github.com/quiqr/quiqr-hugoconf2022-webslides",
