@@ -60,6 +60,27 @@
     "NormalizedName": "UILite"
   },
   {
+    "HugoVersion": "0.88.1",
+    "HugoTheme": "hugo-webslides",
+    "QuiqrFormsEndPoints": 0,
+    "QuiqrModel": "base singles",
+    "QuiqrEtalageName": "Webslides Quiqr in a nutshell",
+    "QuiqrEtalageDescription": "The slides of Pim’s Lightning Talk at the Hugo Conf 2022",
+    "QuiqrEtalageHomepage": "https://github.com/quiqr/quiqr-hugoconf2022-webslides",
+    "QuiqrEtalageDemoUrl": "",
+    "QuiqrEtalageLicense": "CC0-1.0",
+    "QuiqrEtalageLicenseURL": "https://github.com/quiqr/quiqr-hugoconf2022-webslides/blob/main/LICENSE",
+    "QuiqrEtalageAuthor": "Pim Snel",
+    "QuiqrEtalageAuthorHomepage": "https://pimsnel.com",
+    "QuiqrEtalageScreenshots": [
+      "quiqr/etalage/screenshots/quiqr-generated-screenshot.jpg",
+      "quiqr/etalage/screenshots/quiqr-generated.jpg"
+    ],
+    "ScreenshotImageType": "jpg",
+    "SourceLink": "https://github.com/quiqr/quiqr-hugoconf2022-webslides",
+    "NormalizedName": "Webslides-Quiqr-in-a-nutshell"
+  },
+  {
     "HugoVersion": "0.101.0",
     "HugoTheme": "XMin",
     "QuiqrFormsEndPoints": 0,
