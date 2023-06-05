@@ -41,11 +41,11 @@ do
 
 done
 
-ls -al ./
+#ls -al ./
 rm -f templates_tmp.json
 jq -s 'flatten' _*.json > templates.json
 rm -f _*.json
-cat templates.json
+#cat templates.json
 
 #ls -al
 #find ./templates
