@@ -28,6 +28,7 @@ All listed Quiqr Templates are available inside the Quiqr Desktop App.
 - [UILite](https://github.com/mipmip/quiqr-uilite-template) - A nice looking quick and dirty portfolio website for designers and developers.
 - [Summer](https://github.com/mipmip/summer-qremix) - Simple fresh looking recipe site, ported from Jekyll to Hugo.
 - [Webslides Quiqr in a Nutshell](https://github.com/quiqr/quiqr-hugoconf2022-webslides) - Webslides presentation about Quiqr from the HugoConf 2022.
+- [Kitchen Sink](https://github.com/quiqr/quiqr-template-kitchen-sink) - This is a template for learning the Quiqr Model. It has every field type configured.
 
 ## Related
 
