@@ -1,5 +1,25 @@
 [
   {
+    "HugoVersion": "0.111.3",
+    "HugoTheme": "",
+    "QuiqrFormsEndPoints": 0,
+    "QuiqrModel": "base collections menu singles",
+    "QuiqrEtalageName": "KitchenSink",
+    "QuiqrEtalageDescription": "Template with every available field type. For learning the Quiqr Model",
+    "QuiqrEtalageHomepage": "https://github.com/quiqr/quiqr-template-kitchen-sink",
+    "QuiqrEtalageDemoUrl": "",
+    "QuiqrEtalageLicense": "MIT",
+    "QuiqrEtalageLicenseURL": "https://github.com/quiqr/quiqr-template-kitchen-sink/blob/main/LICENSE",
+    "QuiqrEtalageAuthor": "Pim Snel",
+    "QuiqrEtalageAuthorHomepage": "https://github.com/mipmip",
+    "QuiqrEtalageScreenshots": [
+      "quiqr/etalage/screenshots/quiqr-generated-screenshot.jpg"
+    ],
+    "ScreenshotImageType": "jpg",
+    "SourceLink": "https://github.com/quiqr/quiqr-template-kitchen-sink",
+    "NormalizedName": "KitchenSink"
+  },
+  {
     "HugoVersion": "extended_0.76.5",
     "HugoTheme": "Paper",
     "QuiqrFormsEndPoints": 0,
