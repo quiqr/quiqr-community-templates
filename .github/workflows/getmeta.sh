@@ -41,6 +41,7 @@ do
 
 done
 
+ls -al ./
 rm -f templates_tmp.json
 jq -s 'flatten' _*.json > templates.json
 rm -f _*.json
