@@ -29,6 +29,7 @@ All listed Quiqr Templates are available inside the [Quiqr Desktop App](https://
 - [Summer](https://github.com/mipmip/summer-qremix) - Simple fresh looking recipe site, ported from Jekyll to Hugo.
 - [Webslides Quiqr in a Nutshell](https://github.com/quiqr/quiqr-hugoconf2022-webslides) - Webslides presentation about Quiqr from the HugoConf 2022.
 - [Kitchen Sink](https://github.com/quiqr/quiqr-template-kitchen-sink) - This is a template for learning the Quiqr Model. It has every field type configured.
+- [Scroll](https://github.com/mipmip/quiqr-scroll-template) - Template based on the Hugo Scroll theme for pretty, quick and simple single-page websites.
 
 ## Related
 
