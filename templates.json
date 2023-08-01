@@ -27,17 +27,38 @@
     "QuiqrEtalageName": "Paper",
     "QuiqrEtalageDescription": "The famous paper theme with a Quiqr CMS layer",
     "QuiqrEtalageHomepage": "https://github.com/mipmip/quiqr-paper-themed-template",
-    "QuiqrEtalageDemoUrl": "",
+    "QuiqrEtalageDemoUrl": "https://mipmip.github.io/quiqr-paper-themed-template/",
     "QuiqrEtalageLicense": "MIT",
     "QuiqrEtalageLicenseURL": "https://github.com/mipmip/quiqr-paper-themed-template/blob/main/LICENSE",
-    "QuiqrEtalageAuthor": " Steve Francia, Nanxiaobei and Pim Snel",
-    "QuiqrEtalageAuthorHomepage": "",
+    "QuiqrEtalageAuthor": "Steve Francia, Nanxiaobei and Pim Snel",
+    "QuiqrEtalageAuthorHomepage": "https://pimsnel.com",
     "QuiqrEtalageScreenshots": [
       "quiqr/etalage/screenshots/paperscreen.png"
     ],
     "ScreenshotImageType": "png",
     "SourceLink": "https://github.com/mipmip/quiqr-paper-themed-template",
     "NormalizedName": "Paper"
+  },
+  {
+    "HugoVersion": "extended_0.101.0",
+    "HugoTheme": "hugo-scroll",
+    "QuiqrFormsEndPoints": 0,
+    "QuiqrModel": "base collections menu singles",
+    "QuiqrEtalageName": "Scroll",
+    "QuiqrEtalageDescription": "Quiqr template based on the Hugo Scroll theme for pretty, quick and simple single-page websites.",
+    "QuiqrEtalageHomepage": "https://github.com/mipmip/quiqr-scroll-template/",
+    "QuiqrEtalageDemoUrl": "https://mipmip.github.io/quiqr-scroll-template/",
+    "QuiqrEtalageLicense": "MIT",
+    "QuiqrEtalageLicenseURL": "https://github.com/mipmip/quiqr-scroll-template/blob/main/LICENSE",
+    "QuiqrEtalageAuthor": "Pim Snel, @zjedi, Jan Raasch",
+    "QuiqrEtalageAuthorHomepage": "https://pimsnel.com",
+    "QuiqrEtalageScreenshots": [
+      "quiqr/etalage/screenshots/quiqr-generated-screenshot.jpg",
+      "quiqr/etalage/screenshots/screenshot2.png"
+    ],
+    "ScreenshotImageType": "jpg",
+    "SourceLink": "https://github.com/mipmip/quiqr-scroll-template",
+    "NormalizedName": "Scroll"
   },
   {
     "HugoVersion": "extended_0.101.0",
