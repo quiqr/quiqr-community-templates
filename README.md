@@ -10,7 +10,7 @@ Model.
 </p>
 
 <p align="center">
-All listed Quiqr Templates are available inside the [Quiqr Desktop App](https://quiqr.org).
+All listed Quiqr Templates are available inside the <a href="https://quiqr.org">Quiqr Desktop App</a>.
 </p>
 
 <p align="center">
