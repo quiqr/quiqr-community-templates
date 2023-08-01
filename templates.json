@@ -61,26 +61,6 @@
     "NormalizedName": "Scroll"
   },
   {
-    "HugoVersion": "extended_0.101.0",
-    "HugoTheme": "summer-qremix",
-    "QuiqrFormsEndPoints": 0,
-    "QuiqrModel": "base collections menu singles",
-    "QuiqrEtalageName": "Summer",
-    "QuiqrEtalageDescription": "Simple fresh looking recipe site, ported from Jekyll to Hugo",
-    "QuiqrEtalageHomepage": "https://github.com/mipmip/summer-qremix",
-    "QuiqrEtalageDemoUrl": "",
-    "QuiqrEtalageLicense": "MIT",
-    "QuiqrEtalageLicenseURL": "https://github.com/mipmip/summer-qremix/blob/main/LICENSE",
-    "QuiqrEtalageAuthor": "Connor Bär (Ported by Pim Snel)",
-    "QuiqrEtalageAuthorHomepage": "https://github.com/connor-baer",
-    "QuiqrEtalageScreenshots": [
-      "quiqr/etalage/screenshots/quiqr-generated-screenshot.jpg"
-    ],
-    "ScreenshotImageType": "jpg",
-    "SourceLink": "https://github.com/mipmip/summer-qremix",
-    "NormalizedName": "Summer"
-  },
-  {
     "HugoVersion": "0.101.0",
     "HugoTheme": "UILite",
     "QuiqrFormsEndPoints": 0,
@@ -88,7 +68,7 @@
     "QuiqrEtalageName": "UILite",
     "QuiqrEtalageDescription": "Hugo UILite portfolio theme is designed especially for designers and developers who need a good-looking portfolio website without much efforts.",
     "QuiqrEtalageHomepage": "https://github.com/mipmip/quiqr-uilite-template",
-    "QuiqrEtalageDemoUrl": "",
+    "QuiqrEtalageDemoUrl": "https://mipmip.github.io/quiqr-uilite-template/",
     "QuiqrEtalageLicense": "MIT",
     "QuiqrEtalageLicenseURL": "https://github.com/mipmip/quiqr-uilite-template/blob/main/LICENSE",
     "QuiqrEtalageAuthor": "Multiple",
@@ -128,7 +108,7 @@
     "QuiqrEtalageName": "Xmin",
     "QuiqrEtalageDescription": "Minimal but clean and complete hugo theme remixed as Quiqr Template",
     "QuiqrEtalageHomepage": "https://github.com/mipmip/quiqr-xmin-template",
-    "QuiqrEtalageDemoUrl": "",
+    "QuiqrEtalageDemoUrl": "https://mipmip.github.io/quiqr-xmin-template/",
     "QuiqrEtalageLicense": "MIT",
     "QuiqrEtalageLicenseURL": "https://github.com/mipmip/quiqr-xmin-template/blob/main/LICENSE",
     "QuiqrEtalageAuthor": "Yihui Xie, Pim Snel",
