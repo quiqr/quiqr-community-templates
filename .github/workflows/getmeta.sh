@@ -17,8 +17,6 @@ do
     echo /tmp/embgit repo_show_quiqrsite $link
     out=$(/tmp/embgit repo_show_quiqrsite $link) && echo "$out" > /tmp/tmp.json
 
-    cat /tmp/tmp.json
-
     if [ -f /tmp/tmp.json ]; then
 
       cat /tmp/tmp.json | \
@@ -36,18 +34,15 @@ do
           echo screenshot.$screenshot_ext > templates/$etalagename/screenshot.txt
           cat /tmp/tmp.json | jq -r '.Screenshot' | sed 's/^data:image\/[a-z]*;base64,//' | base64 -d -i > templates/$etalagename/screenshot.$screenshot_ext
         fi
+      else
+        echo "ERROR: template $link does not seem to be valid."
       fi
-
     fi
   fi
 
 done
 
-#ls -al ./
 rm -f templates_tmp.json
 jq -s 'flatten' _*.json > templates.json
 rm -f _*.json
 cat templates.json
-
-#ls -al
-#find ./templates
