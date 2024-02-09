@@ -43,6 +43,6 @@ do
 done
 
 rm -f templates_tmp.json
-jq -s 'flatten' _*.json > templates.json
+jq -s 'flatten' _*.json > public/static/templates.json
 rm -f _*.json
-cat templates.json
+cat public/static/templates.json

@@ -1,0 +1,25 @@
+{
+  "zzzmisa-hugo-theme-doors": {
+    "theme_key": "zzzmisa-hugo-theme-doors",
+    "file": "hugo-theme-doors.md",
+    "name": "hugo-theme-doors",
+    "title": "Doors",
+    "github_username": "zzzmisa",
+    "repo": "zzzmisa/hugo-theme-doors",
+    "branch": "master",
+    "default_branch": "master",
+    "github_url": "https://github.com/zzzmisa/hugo-theme-doors",
+    "demo_url": "https://zzzmisa.com/",
+    "stars": 13,
+    "forks": 9,
+    "open_issues": 0,
+    "last_commit": "2022-02-05T06:06:44Z",
+    "created_at": "2019-08-05T14:40:43Z",
+    "description": "🚪Single page theme for links to your works",
+    "images": {
+      "hires": "https://www.jamstackthemes.dev/capture/zzzmisa-hugo-theme-doors.png",
+      "thumbnail": "https://www.jamstackthemes.dev/images/theme/thumbnail/zzzmisa-hugo-theme-doors.jpg",
+      "screenshot": "https://www.jamstackthemes.dev/images/theme/thumbnail/2x/zzzmisa-hugo-theme-doors-2x.jpg"
+    }
+  }
+}

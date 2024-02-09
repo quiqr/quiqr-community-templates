@@ -26,6 +26,15 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.81.0'
+          extended: true
+
+      - name: Build
+        run: hugo --minify --baseURL https://quiqr.github.io/quiqr-community-templates/
+
       - name: Extract Links
         id: extralinks
         uses: mipmip/github-action-markdown-link-extract-to-json@v1.4
@@ -40,14 +49,14 @@ jobs:
       - name: parse and flatten repo meta
         run: ./.github/workflows/getmeta.sh
 
-      - name: download md2html
-        run: cd /tmp && wget -c https://github.com/nocd5/md2html/releases/download/v2.0.0/md2html_linux_amd64.zip && unzip md2html_linux_amd64.zip
-
-      - name: convert README.md with md2html
-        run: /tmp/md2html README.md -o index.html
+#      - name: download md2html
+#        run: cd /tmp && wget -c https://github.com/nocd5/md2html/releases/download/v2.0.0/md2html_linux_amd64.zip && unzip md2html_linux_amd64.zip
+#
+#      - name: convert README.md with md2html
+#        run: /tmp/md2html README.md -o index.html
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
+          publish_dir: ./public
