@@ -17,6 +17,8 @@ do
     echo /tmp/embgit repo_show_quiqrsite $link
     out=$(/tmp/embgit repo_show_quiqrsite $link) && echo "$out" > /tmp/tmp.json
 
+    cat /tmp/tmp.json
+
     if [ -f /tmp/tmp.json ]; then
 
       cat /tmp/tmp.json | \
@@ -45,7 +47,7 @@ done
 rm -f templates_tmp.json
 jq -s 'flatten' _*.json > templates.json
 rm -f _*.json
-#cat templates.json
+cat templates.json
 
 #ls -al
 #find ./templates
