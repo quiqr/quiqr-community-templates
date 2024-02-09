@@ -1,5 +1,25 @@
 [
   {
+    "HugoVersion": "extended_0.101.0",
+    "HugoTheme": "",
+    "QuiqrFormsEndPoints": 0,
+    "QuiqrModel": "base collections menu singles",
+    "QuiqrEtalageName": "Bexer Remix",
+    "QuiqrEtalageDescription": "Flexible Template suitable for small and large websites. Many contents blocks available.",
+    "QuiqrEtalageHomepage": "https://github.com/wearetechnative/quiqr-template-bexer-remix",
+    "QuiqrEtalageDemoUrl": "",
+    "QuiqrEtalageLicense": "Apache",
+    "QuiqrEtalageLicenseURL": "https://github.com/wearetechnative/quiqr-template-bexer-remix/blob/main/LICENSE",
+    "QuiqrEtalageAuthor": "TechNative",
+    "QuiqrEtalageAuthorHomepage": "https://technative.eu",
+    "QuiqrEtalageScreenshots": [
+      "quiqr/etalage/screenshots/Screenshot from 2024-02-09 19-24-26.png"
+    ],
+    "ScreenshotImageType": "png",
+    "SourceLink": "https://github.com/wearetechnative/quiqr-template-bexer-remix",
+    "NormalizedName": "Bexer-Remix"
+  },
+  {
     "HugoVersion": "0.111.3",
     "HugoTheme": "",
     "QuiqrFormsEndPoints": 0,
