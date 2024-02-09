@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://quiqr.github.io/quiqr-community-templates/"
 languageCode = "en-us"
 title = "Quiqr Templates"
 theme = "jamstackthemes"

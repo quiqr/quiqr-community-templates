@@ -35,8 +35,8 @@
   {{ block "header_css" . }}{{ end }}
 
 
-    <link rel="shortcut icon" href="/images/favicon/02_QUIQR-icon-logo.png" type="image/x-icon">
-    <link rel="icon" href="/images/favicon/02_QUIQR-icon-logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="images/favicon/02_QUIQR-icon-logo.png" type="image/x-icon">
+    <link rel="icon" href="images/favicon/02_QUIQR-icon-logo.png" type="image/x-icon">
 
   {{ with .OutputFormats.Get "rss" }}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
