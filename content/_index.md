@@ -1,3 +1,3 @@
 ---
-title: 'Jamstack Themes'
+title: 'Quiqr Templates'
 ---

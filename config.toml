@@ -45,11 +45,11 @@ pygmentsUseClasses = true
 
 # Main Menu
 [[menu.main]]
-	name = "New Themes"
+	name = "New Templates"
 	url = "/"
     weight = 1
 
 [[menu.main]]
-	name = "All Themes"
+	name = "All Templates"
 	url = "/theme/"
     weight = 2

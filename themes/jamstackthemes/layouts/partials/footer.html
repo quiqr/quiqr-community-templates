@@ -3,13 +3,13 @@
 
     <div class="footer-columns">
       <div class="footer-column footer-column-brand">
-        <h3>Jamstack Themes</h3>
+        <h3>Quiqr Templates</h3>
         <a href="https://github.com/quiqr/quiqr-community-templates" rel="nofollow">Submit a theme</a>
         <a href="{{ "templates.json" | relURL }}">Templates JSON</a>
       </div>
 
       <div class="footer-column">
-        <h3>Themes</h3>
+        <h3>Templates</h3>
         {{ range .Site.Menus.main }}
           <a href="{{.URL}}">{{ .Name }}</a>
         {{ end }}
