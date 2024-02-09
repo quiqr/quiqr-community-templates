@@ -14,9 +14,9 @@ All listed Quiqr Templates are available inside the <a href="https://quiqr.org">
 </p>
 
 <p align="center">
-<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-<a href="code-of-conduct.md">Code of conduct</a>&nbsp;&nbsp;&nbsp;
-<a href="open-in-quiqr-badge.md">Open in Quiqr Badge</a>&nbsp;&nbsp;&nbsp;
+  <a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+  <a href="code-of-conduct.md">Code of conduct</a>&nbsp;&nbsp;&nbsp;
+  <a href="open-in-quiqr-badge.md">Open in Quiqr Badge</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
