@@ -30,7 +30,7 @@ All listed Quiqr Templates are available inside the <a href="https://quiqr.org">
 - [Webslides Quiqr in a Nutshell](https://github.com/quiqr/quiqr-hugoconf2022-webslides) - Webslides presentation about Quiqr from the HugoConf 2022.
 - [Kitchen Sink](https://github.com/quiqr/quiqr-template-kitchen-sink) - This is a template for learning the Quiqr Model. It has every field type configured.
 - [Scroll](https://github.com/mipmip/quiqr-scroll-template) - Template based on the Hugo Scroll theme for pretty, quick and simple single-page websites.
-- [Bexer Remix][https://github.com/wearetechnative/quiqr-template-bexer-remix] - Flexible template suitable for small and large websites. Includes many content elements and a no code styling tool.
+- [Bexer Remix](https://github.com/wearetechnative/quiqr-template-bexer-remix) - Flexible template suitable for small and large websites. Includes many content elements and a no code styling tool.
 
 ## Related
 
