@@ -29,10 +29,10 @@ do
 
         cat /tmp/tmp.json | jq -r '.ScreenshotImageType' | read screenshot_ext
         if  [ "$screenshot_ext" != "" ]; then
-          mkdir -p public/templates/$etalagename
+          mkdir -p public2/templates/$etalagename
 
-          echo screenshot.$screenshot_ext > public/templates/$etalagename/screenshot.txt
-          cat /tmp/tmp.json | jq -r '.Screenshot' | sed 's/^data:image\/[a-z]*;base64,//' | base64 -d -i > public/templates/$etalagename/screenshot.$screenshot_ext
+          echo screenshot.$screenshot_ext > public2/templates/$etalagename/screenshot.txt
+          cat /tmp/tmp.json | jq -r '.Screenshot' | sed 's/^data:image\/[a-z]*;base64,//' | base64 -d -i > public2/templates/$etalagename/screenshot.$screenshot_ext
         fi
       else
         echo "ERROR: template $link does not seem to be valid."
@@ -43,6 +43,6 @@ do
 done
 
 rm -f templates_tmp.json
-jq -s 'flatten' _*.json > public/templates.json
+jq -s 'flatten' _*.json > public2/templates.json
 rm -f _*.json
-cat public/templates.json
+cat public2/templates.json
