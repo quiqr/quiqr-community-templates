@@ -24,7 +24,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="2.2988281"
-     inkscape:cx="256"
+     inkscape:cx="256.2175"
      inkscape:cy="300.80544"
      inkscape:window-width="2560"
      inkscape:window-height="1374"
@@ -43,17 +43,11 @@
        x="45.36158"
        y="45.111099"
        ry="49.435902" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:274.344px;line-height:1.25;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ff5758;fill-opacity:1;stroke-width:6.85866"
-       x="185.57613"
-       y="352.14838"
-       id="text2826"><tspan
-         sodipodi:role="line"
-         id="tspan2824"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:274.344px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff5758;fill-opacity:1;stroke-width:6.85866"
-         x="185.57613"
-         y="352.14838">Q</tspan></text>
+    <path
+       d="m 297.78282,152.70029 q 66.39125,0 66.39125,51.57667 0,8.23032 -1.64607,17.83236 l -11.2481,63.09912 q -5.48688,31.82391 -22.77055,49.10758 -17.00933,17.00932 -47.73586,20.5758 3.01779,9.87638 14.54023,15.6376 11.7968,6.03557 30.45219,6.03557 l -1.37172,38.95685 q -20.85015,0 -36.7621,-4.66385 -15.63761,-4.66385 -24.41661,-11.52245 -8.50467,-6.58425 -13.99155,-15.6376 -8.23032,-13.99155 -8.77901,-29.35481 -45.26675,-6.8586 -45.26675,-49.65626 0,-9.05336 1.9204,-19.47843 l 11.24811,-63.09912 q 12.34548,-69.40903 89.43614,-69.40903 z m -28.53178,160.76558 q 13.7172,0 21.94752,-6.8586 8.23032,-6.8586 11.52245,-25.23964 l 9.87639,-55.41749 q 0.82303,-5.21254 0.82303,-9.3277 0,-21.39883 -23.0449,-21.39883 -28.25743,0.54869 -33.46997,30.72653 l -9.60204,55.41749 q -1.09737,6.58425 -1.09737,13.7172 0,18.38104 23.04489,18.38104 z"
+       id="text2826"
+       style="font-size:274.344px;line-height:1.25;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';letter-spacing:0px;word-spacing:0px;fill:#ff5758;stroke-width:6.85866"
+       aria-label="Q" />
     <rect
        style="fill:#ff5758;fill-opacity:1;stroke:none;stroke-width:0.411123;stroke-linejoin:round"
        id="rect2828"
