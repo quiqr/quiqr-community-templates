@@ -82,12 +82,15 @@
                    data-name="{{ .theme.Title }}"
                    href="{{ .theme.Params.github }}"
                    target="_blank" rel="noopener nofollow">Github</a>
+
+            {{ if .theme.Params.demo }}
                 <a class="action-button action-button-demo"
                    data-action="demo"
                    data-context="card"
                    data-name="{{ .theme.Title }}"
-                   href="/demo{{ .theme.RelPermalink }}"
+                   href="{{ .theme.Params.demo }}"
                 >Demo</a>
+            {{end}}
                 {{ if .site.Params.stackbit_button }}
                     {{ if .theme.Params.stackbit }}
                         <a class="action-button action-button-fill action-button-stackbit" data-action="stackbit"

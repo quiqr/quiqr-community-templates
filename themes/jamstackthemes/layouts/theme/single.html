@@ -101,8 +101,17 @@
                                 <a class="action-button action-button-github" data-action="github" data-context="detail"
                                    data-name="{{ .Title }}" href="{{ .Params.github }}" target="_blank"
                                    rel="nofollow noopener">Github</a>
-                                <a class="action-button action-button-demo" data-action="demo" data-context="detail"
-                                   data-name="{{ .Title }}" href="/demo{{ .RelPermalink }}">Demo</a>
+
+                                {{ if .Params.demo }}
+                                <a class="action-button action-button-demo"
+                                  data-action="demo"
+                                  data-context="card"
+                                  data-name="{{ .Title }}"
+                                  href="{{ .Params.demo }}"
+                                >Demo</a>
+                                {{end}}
+
+
                                 {{ if .Site.Params.stackbit_button }}
                                     {{ if .Params.stackbit }}
                                         <a class="action-button action-button-fill action-button-stackbit"
