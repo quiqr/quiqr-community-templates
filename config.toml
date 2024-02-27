@@ -44,12 +44,29 @@ pygmentsUseClasses = true
   lastmod = [":git", "lastmod", ":fileModTime", ":default"]
 
 # Main Menu
-[[menu.main]]
-	name = "New Templates"
-	url = "/"
-    weight = 1
+#[[menu.main]]
+#	name = "New Templates"
+#	url = "/"
+#    weight = 1
+#
+#[[menu.main]]
+#	name = "All Templates"
+#	url = "/theme/"
+#    weight = 2
 
 [[menu.main]]
-	name = "All Templates"
-	url = "/theme/"
+	name = "About Quiqr"
+	url = "https://quiqr.org"
     weight = 2
+
+
+[[menu.main]]
+	name = "Download Quiqr Desktop"
+	url = "https://quiqr.org/pages/download"
+    weight = 2
+
+[[menu.main]]
+	name = "Documentation"
+	url = "https://book.quiqr.org"
+    weight = 4
+
