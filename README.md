@@ -31,6 +31,7 @@ All listed Quiqr Templates are available inside the <a href="https://quiqr.org">
 - [Kitchen Sink](https://github.com/quiqr/quiqr-template-kitchen-sink) - This is a template for learning the Quiqr Model. It has every field type configured.
 - [Scroll](https://github.com/mipmip/quiqr-scroll-template) - Template based on the Hugo Scroll theme for pretty, quick and simple single-page websites.
 - [Bexer Remix](https://github.com/wearetechnative/quiqr-template-bexer-remix) - Flexible template suitable for small and large websites. Includes many content elements and a no code styling tool.
+- [Yet Another Gallery](https://github.com/mipmip/quiqr-yet-another-gallery-template) - Template for stylish video or photo galleries.
 
 ## Related
 
