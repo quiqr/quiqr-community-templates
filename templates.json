@@ -159,5 +159,28 @@
     "ScreenshotImageType": "jpg",
     "SourceLink": "https://github.com/mipmip/quiqr-xmin-template",
     "NormalizedName": "Xmin"
+  },
+  {
+    "HugoVersion": "extended_0.90.1",
+    "HugoTheme": "yag",
+    "QuiqrFormsEndPoints": 0,
+    "QuiqrModel": "base collections menu singles",
+    "QuiqrEtalageName": "Yet Another Gallery",
+    "QuiqrEtalageDescription": "Stylish template for Video and Image galleries",
+    "QuiqrEtalageHomepage": "https://github.com/mipmip/quiqr-yet-another-gallery-template",
+    "QuiqrEtalageDemoUrl": "https://mipmip.github.io/quiqr-yet-another-gallery-template/",
+    "QuiqrEtalageLicense": "Creative Commons Attribution 3.0 Unported",
+    "QuiqrEtalageLicenseURL": "https://github.com/mipmip/quiqr-yet-another-gallery-template/blob/main/LICENSE.md",
+    "QuiqrEtalageAuthor": "Pim Snel",
+    "QuiqrEtalageAuthorHomepage": "https://github.com/mipmip",
+    "QuiqrEtalageScreenshots": [
+      "quiqr/etalage/screenshots/quiqr-generated-screenshot.jpg",
+      "quiqr/etalage/screenshots/screenshot2.png",
+      "quiqr/etalage/screenshots/screenshot3.png",
+      "quiqr/etalage/screenshots/screenshot4.png"
+    ],
+    "ScreenshotImageType": "jpg",
+    "SourceLink": "https://github.com/mipmip/quiqr-yet-another-gallery-template",
+    "NormalizedName": "Yet-Another-Gallery"
   }
 ]
